@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rosticom
+- 👋 Hi, I’m Ross
 - 👀 I’m interested in coding
 - 🌱 like namely flutter
 - 💞️ I’m looking to collaborate
