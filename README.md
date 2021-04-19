@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rosticom
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning flutter
+- 🌱 like namely flutter
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me... qanb.xyz
 
