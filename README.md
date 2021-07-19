@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Ross
-- 👀 I’m interested in coding
-- 🌱 like namely flutter
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me... qanb.xyz
+- 👀 I’m interested Flutter
+- 📫 How to reach me... qantb.com
 
