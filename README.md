@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Ross
-- 👀 I’m interested Flutter
+- 👋 Hi, I’m Rost
 - 📫 How to reach me... qusaur.com
 
