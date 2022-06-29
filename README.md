@@ -2,4 +2,4 @@
 
 :) Frontend engineer (Flutter, Firebase)
 
-📫 How to reach me... topoint.me
+📫 How to reach me... https://topoint.me
