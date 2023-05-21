@@ -2,4 +2,4 @@
 
 Frontend engineer (Flutter, Firebase)
 
-📫 How to reach me... https://topme.be
+📫 How to reach me: https://topme.be
