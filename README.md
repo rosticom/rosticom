@@ -1,4 +1,4 @@
-👋 Hi, I’m Rostyslav (call me ROST)
+👋 Hi, I’m Rostіslav (call me Rost)
 
 Frontend engineer (Flutter, Firebase)
 
