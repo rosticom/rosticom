@@ -1,5 +1,5 @@
-👋 Hi, I’m Rostіslav (call me Rost)
+👋 I’m Rost
 
-Frontend engineer (Flutter, Firebase)
+Flutter, Firebase, TMA (Telegram Mini Web App)
 
-📫 How to reach me: https://topme.be
+https://topme.be
