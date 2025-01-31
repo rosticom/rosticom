@@ -1,5 +1,5 @@
 👋 I’m Rost
 
-Flutter, Firebase, TMA (Telegram Web Mini App)
+Flutter, Firebase, TWA (Telegram Web App)
 
 https://topme.be
