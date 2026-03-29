@@ -1,5 +1,5 @@
 👋 I’m Rost
 
-Flutter, Firebase, TWA (Telegram Web App), iOS, Android, Windows desktop app developer
+Flutter, Firebase, iOS, Android, WEB, AI-integrations
 
 https://topme.be
